@@ -12,5 +12,5 @@ resources:
 patchesStrategicMerge:
 - overlays/argocd-cm.yaml
 - overlays/argocd-repo-server-deploy.yaml
-  #- overlays/discord_notification.yaml
+- overlays/discord_notification.yaml
   #- overlays/webhook_notification.yaml
